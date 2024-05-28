@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>LOLESPORTS by Miguel Angel Munoz Polonio </title>
+        <link>https://mikael1551.github.io</link>
+        <description>En este canal de contenidos adjunto algunas de las partidas
+    mas increibles en League of Legend en mi opinion.</description>
+        <language>es</language>
+
+    <item>
+        <title>MISFITS VS FNATIC</title>
+        <link>https://www.youtube.com/watch?v=Mm7MkJ2MJu8listLLindex=223t=1884s</link>
+        <description>Una de las mejores partidas ya que el mid elige como pick un Kayn,
+        algo de lo mas inusual y por tanto curioso, lo mejor de todo, la demostracion
+        de como se juega este personaje.</description>
+    </item>
+
+    <item>
+        <title>GAM VS SKT-T1</title>
+        <link>https://www.youtube.com/watch?v=rgor0tzsW-0listLLindex=249</link>
+        <description>En esta partida, el famoso equipo de SKT decide fedear completamente
+        a su propio jungla, dejando una masacre en cada uno de los gankeos sin que el 
+        rival pudiera hacer algo.</description>
+    </item>
+
+    <item>
+        <title>EDG VS SKT-T1</title>
+        <link>https://www.youtube.com/watch?v=3Y_wQl5a3oAlistLLindex=247</link>
+        <description>Partida legendaria ya que cuando todo estaba perdido por parte 
+        del equipo chino de SKT, milagrosamente gracias a una teamfight consiguen
+        remontar al equipo contrario y alzarse con la victoria.</description>
+    </item>
+
+    <item>
+        <title>FNATIC VS MISFITS</title>
+        <link>https://www.youtube.com/watch?v=ArjXLLog8Ys</link>
+        <description>En esta partida volvemos con los picks extranos, en este caso se nos
+        presenta una vayne mid, el cual siempre se juega en bot, para intentar hacer combo 
+        con el jungla, el equipo duda del pick del companero de su equipo y aunque parecian
+        risas como si fuera a broma, al final ganaron gracias a una teamfight.</description>
+    </item>
+    </channel>
+</rss>
